@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                             
 
 <pre>
@@ -88,3 +89,5 @@ Duration                : October 2018 - Current
 Current Version         : v1.0.0.3
 Last Update             : 12.16.2018
 </pre>
+=======
+# pneumonia-detection
